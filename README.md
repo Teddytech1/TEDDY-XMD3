@@ -1,19 +1,19 @@
-<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">WELCOME TO DML-XMD</h2>
-<h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot for Tanzania</h3>
+<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">WELCOME TO TEDDY-XMD</h2>
+<h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot made by Teddy</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;MEET+DML-MD+🤖;ADVANCED+WHATSAPP+BOT+EXPERIENCE+⚡;MADE+WITH+PASSION+BY+DML+💻;OFFICIALLY+TANZANIAN+BOT+🎉" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;MEET+TEDDY-XMD+🤖;ADVANCED+WHATSAPP+BOT+EXPERIENCE+⚡;MADE+WITH+PASSION+BY+TEDDY+💻;OFFICIALLY+KENYAN+BOT+🎉" alt="Typing Animation">
 </p>
 
 <p align="center">
-  <img alt="DML-XMD" width="700" height="300" src="https://files.catbox.moe/emdr5h.jpg">
+  <img alt="TEDDY-XMD" width="700" height="300" src="https://files.catbox.moe/a0mj3n.jpg">
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/MLILA05/DML-XMD">
+  <a href="https://github.com/Teddytech1/TEDDY-XMD">
     <img src="https://github-readme-stats.vercel.app/api?username=MLILA05&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MLILA05&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teddytech1 &theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400">
 
   
   </a> 
