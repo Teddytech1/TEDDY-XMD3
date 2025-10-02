@@ -12,7 +12,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Teddytech1/TEDDY-XMD">
-    <img src="https://github-readme-stats.vercel.app/api?username=MLILA05&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=Teddytech1&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teddytech1 &theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400">
 
   
