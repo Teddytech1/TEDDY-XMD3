@@ -28,8 +28,8 @@
 ### 🔹 Step 1: Fork & Star This Repo
 Help support the project by clicking the buttons below. Fork it to your GitHub and give it a star!
 
-[![Fork](https://img.shields.io/github/forks/MLILA05/DML-XMD?label=Fork&style=for-the-badge&logo=git)](https://github.com/MLILA17/DML-XMD/fork)
-[![Star](https://img.shields.io/github/stars/MLILA05/DML-XMD?label=Star&style=for-the-badge&logo=github)](https://github.com/MLILA05/DML-XMD/stargazers)
+[![Fork](https://img.shields.io/github/forks/MLILA05/DML-XMD?label=Fork&style=for-the-badge&logo=git)](https://github.com/Teddytech1/TEDDY-XMD/fork)
+[![Star](https://img.shields.io/github/stars/Teddytech1/TEDDY-XMD?label=Star&style=for-the-badge&logo=github)](https://github.com/Teddytech1/TEDDY-XMD/stargazers)
 
 
 ---
@@ -46,7 +46,7 @@ You need a session to connect your bot. Choose your preferred method:
 ### 🔹 Step 3: Deploy with One Click
 Easily deploy to Heroku with the button below:
 
-[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MLILA05/DML-XMD)
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Teddytech1/TEDDY-XMD)
 
 </div>
 
@@ -55,10 +55,10 @@ Easily deploy to Heroku with the button below:
 ## 🌐 Join The Community
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS">
+  <a href="[https://chat.whatsapp.com/KnL0Ft6gvHDGP2lH3oN5Z5?mode=ems_copy_t]">
     <img src="https://img.shields.io/badge/JOIN_WHATSAPP_GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
   </a>
-  <a href="https://whatsapp.com/channel/0029VbBTnYe4yltFjGWi8K1g">
+  <a href="https://whatsapp.com/channel/0029Vb6NveDBPzjPa4vIRt3n">
     <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
   </a>
 </p>
