@@ -37,9 +37,9 @@ Help support the project by clicking the buttons below. Fork it to your GitHub a
 ### 🔹 Step 2: Generate Session ID
 You need a session to connect your bot. Choose your preferred method:
 
-[![Scan QR Code](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://zokou-session.onrender.com/qr) 
+[![Scan QR Code](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://teddy-xmd-pair.onrender.com/qr) 
 
-[![Pair Device](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white)](https://zokou-session.onrender.com)
+[![Pair Device](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white)](https://teddy-xmd-bot.vercel.app/)
 
 ---
 
