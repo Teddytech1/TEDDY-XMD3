@@ -19,7 +19,7 @@ zokou(
       await repondre("*Please wait TEDDY-XMD... Generating pair code*");
 
       const encodedNumber = encodeURIComponent(arg.join(" "));
-      const apiUrl = `https://dml0-md-session.onrender.com/code?number=${encodedNumber}`;
+      const apiUrl = `https://teddy-xmd-pair.onrender.com//code?number=${encodedNumber}`;
       
       const response = await axios.get(apiUrl);
       const data = response.data;
